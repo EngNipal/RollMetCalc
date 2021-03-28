@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RollMetCalc.Corner">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAABAAAAgBAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Corner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Order">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAwAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Part">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAAAAgAQAAAAAAAZAAAAAAAAAAAAAAACAQAA=</HashCode>
+      <FileName>Part.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RollMetCalc.Pipe">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAABBAAAAAAA=</HashCode>
+      <FileName>Pipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Program">
+    <Position X="9.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Service">
+    <Position X="9.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAICAACCAIABAQAACAAAEAABAIAAAAAA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Assembly">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgABAAAAAAAQAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.MainForm">
+    <Position X="1" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAECgAAACkAAAAAIAAAAQAAIAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.OrderForm">
+    <Position X="3" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAxUAAAUCAAAAAICACAAAAKAAAAAAICgAAAgAAAAAE=</HashCode>
+      <FileName>OrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.PartForm">
+    <Position X="7.75" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BMRAAgJCAKIgAAAgKQCCICJLJEABBAAAAQEQAAAAEAA=</HashCode>
+      <FileName>PartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.AsmForm">
+    <Position X="5.25" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACFAEAFACACAAAAqAAAAGAIIEAAAIAAAEAA=</HashCode>
+      <FileName>AsmForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Armature">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABBAAAAAAA=</HashCode>
+      <FileName>Armature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RollMetCalc.Sheet">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAEABAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Sheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
